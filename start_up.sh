@@ -5,9 +5,6 @@ mkdir Data_preprocessing/test_img
 mkdir Data_preprocessing/test_label
 mkdir Data_preprocessing/test_mask
 mkdir Data_preprocessing/test_pose
-mkdir inputs
-mkdir inputs/img
-mkdir inputs/cloth
 
 
 cd pose
