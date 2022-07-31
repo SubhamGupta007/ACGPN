@@ -9,7 +9,7 @@ mkdir Data_preprocessing/test_pose
 
 cd pose
 gdown --id 1hOHMFHEjhoJuLEQY0Ndurn5hfiA9mwko
-cd..
+cd ..
 
 
 git clone https://github.com/levindabhi/Self-Correction-Human-Parsing-for-ACGPN.git
