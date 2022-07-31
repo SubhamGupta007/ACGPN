@@ -15,6 +15,7 @@ cd ..
 git clone https://github.com/levindabhi/Self-Correction-Human-Parsing-for-ACGPN.git
 git clone https://github.com/levindabhi/U-2-Net.git
 
+gdown --id 1k4dllHpu0bdx38J7H28rVVLpU-kOHmnH -O lip_final.pth
 
 # shellcheck disable=SC2164
 cd U-2-Net
